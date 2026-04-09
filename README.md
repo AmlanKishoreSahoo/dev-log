@@ -1,6 +1,6 @@
 # The Dev Log 🚀
 
-Author: **Amlan**
+Author: **Amlan kishore sahoo**
 
 12th Grade Student & JEE Aspirant. 
 I am learning Full-Stack Development in parallel with my studies. This repository is a record of my consistency and coding progress.
