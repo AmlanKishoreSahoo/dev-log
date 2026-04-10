@@ -1,11 +1,25 @@
-Date:- 10th April 2026
-Today i learend about some functional attributes in HTML:-
-<img/> this element have no close tag because its a void element,Void elements cannot have any content and only have a start tag.
-<img src="image link"/> , Src attribute is used to specify the location for that image.
-<img src="image link" alt+"Description of the image"/>, Alt attribute is used to add a description of a image.
-<a> </a> its and achor elemnt , is used to create hyperlinks, between open and closed tag ther is a clickable link.
-<a> href="https://www.freecodecamp.org" target="_blank"Visit Freecodecamp </a> href attribute is used to make the link functional
-target="_blank" enables the link to open in a new browser tab.
+Date:-10th April 2026 
+Today I learned about Functional Attributes in HTML and how they make a webpage interactive.
+
+Void Elements: I learned that elements like <img> are "void elements." This means they don't have a closing tag because they can't hold any nested content. They are self-contained.
+
+The Image Tag (<img>):
+
+src: Specifies the exact path or link to the image.
+
+alt: Provides a text description. This is crucial for accessibility (screen readers) and if the image fails to load.
+
+Syntax: <img src="link" alt="description">
+
+The Anchor Tag (<a>):
+
+This element creates hyperlinks. The text placed between the <a> and </a> tags becomes the clickable link.
+
+href: This is the "destination" attribute. It makes the link actually go somewhere.
+
+target="_blank": A pro-move that forces the link to open in a new browser tab, keeping the user on my original site.
+
+Syntax: <a href="https://freecodecamp.org" target="_blank">Visit FreeCodeCamp</a>
 
 
 
