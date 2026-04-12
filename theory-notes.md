@@ -5,7 +5,7 @@ Void Elements: I learned that elements like <img> are "void elements." This mean
 
 The Image Tag (<img>):
 
-src: Specifies the exact path or link to the image.
+src: Specifies the exact path or link to the image....
 
 alt: Provides a text description. This is crucial for accessibility (screen readers) and if the image fails to load.
 
